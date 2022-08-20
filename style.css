@@ -1,0 +1,15 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gainsboro;
+}
+.note{
+font-size: 15px;
+color:black;
+}
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px ghostwhite;
+}
